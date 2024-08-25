@@ -1,0 +1,6 @@
+[submodule "blog-theme"]
+	path = blog-theme
+	url = https://github.com/2jczoo8/blog-theme.git
+[submodule "themes/maupassant"]
+	path = themes/maupassant
+	url = https://github.com/2jczoo8/blog-theme.git
