@@ -124,17 +124,14 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
   - links
 
 info:
-  avatar: /img/avatar.png
-  discription: To be a better man.
+  avatar: https://cdn.luogu.com.cn/upload/usericon/376103.png
+  discription: zjc's blog
   outlinkitem:
-    - name: twitter
-      outlink: https://twitter.com/username
-      message: Twitter
     - name: envelope
-      outlink: mailto:admin@domain.com
+      outlink: zjc200812@outlook.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/2jczoo8
       message: Github
 
 links:
