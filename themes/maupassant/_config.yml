@@ -136,9 +136,6 @@ info:
     - name: github
       outlink: https://github.com/username
       message: Github
-    - name: rss
-      outlink: /atom.xml
-      message: RSS
 
 links:
   - title: My Luogu
