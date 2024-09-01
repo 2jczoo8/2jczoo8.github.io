@@ -13,6 +13,10 @@ jobs:
         with: 
           path: website
           fetch-depth: 0
+      - name: Set timezone
+        uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: "Asia/Shanghai"
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
