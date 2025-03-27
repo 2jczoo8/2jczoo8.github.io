@@ -27,6 +27,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "mime-db": "^1.53.0",
-    "mime-types": "^2.1.35"
+    "mime-types": "^3.0.1"
   }
 }
