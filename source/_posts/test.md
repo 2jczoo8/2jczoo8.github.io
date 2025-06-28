@@ -1,1 +1,1 @@
-{% pdf \pdf\Combinatorics of permutations (Miklos Bona) (Z-Library).pdf}
+{% pdf \_posts\Combinatorics of permutations (Miklos Bona) (Z-Library).pdf}
