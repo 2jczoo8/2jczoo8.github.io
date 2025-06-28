@@ -5,4 +5,4 @@ toc: true
 category: [test]
 mathjax: true
 ---
-{% pdf /_posts/Combinatoricsofpermutations(MiklosBona)(Z-Library).pdf}
+{% pdf "/pdf/Combinatorics of permutations (Miklos Bona) (Z-Library).pdf" %}
