@@ -2,7 +2,7 @@
 title: test
 date: 2025-06-28
 toc: true
-category: [???]
+category: [test]
 mathjax: true
 ---
 ???
