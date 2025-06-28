@@ -5,5 +5,4 @@ toc: true
 category: [???]
 mathjax: true
 ---
-
-{% pdf \_posts\Combinatorics of permutations (Miklos Bona) (Z-Library).pdf}
+???
